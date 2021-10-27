@@ -1,9 +1,16 @@
 # cloud-tech-contents
 
 - 클라우드 컨텐츠 아카이빙
-- 학습한 내용은 다음 [링크(TIL)](https://til.sieumn.com/)에 정리합니다.
+- 학습한 내용은 다음 [링크(TIL)](https://til.sieumn.com/virtualization)에 정리합니다.
 
-## Virtualization
+## Virtualization 
+
+- [[Cloud Computing] 전가상화와 반가상화 (alice님 블로그)](https://m.blog.naver.com/alice_k106/220218878967)
+
+## Linux Container
+
+- [컨테이너란? 리눅스의 프로세스 격리 기능 (44bits.io)](https://www.44bits.io/ko/keyword/linux-container#리눅스-네임스페이스linux-namespace)
+- [흔들리는 도커(Docker)의 위상 - OCI와 CRI 중심으로 재편되는 컨테이너 생태계(삼성SDS)](https://post.naver.com/viewer/postView.nhn?volumeNo=28882881)
 
 ## Docker
 
