@@ -70,4 +70,7 @@
 
 ### Concept
 
-- [[네이버 클라우드] 가상화 개념 이해하기#1, QEMU vs KVM](https://medium.com/naver-cloud-platform/네이버클라우드-기술-경험-가상화-개념-이해하기-1-qemu-vs-kvm-962113641799)
+- [[네이버 클라우드] 가상화 개념 이해하기 #1, QEMU vs KVM](https://medium.com/naver-cloud-platform/네이버클라우드-기술-경험-가상화-개념-이해하기-1-qemu-vs-kvm-962113641799)
+- [QEMU와 KVM - 1 (아는개발자님 블로그)](https://selfish-developer.com/entry/QEMU와-KVM-1?category=825819)
+- [QEMU와 KVM - 2 (아는개발자님 블로그)](https://selfish-developer.com/entry/QEMU와-KVM-2?category=825819)
+- [KVM - ARM (아는개발자님 블로그)](https://selfish-developer.com/entry/KVM-ARM?category=825819)
